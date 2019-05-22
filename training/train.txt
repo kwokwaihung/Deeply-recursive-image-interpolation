@@ -1,0 +1,1 @@
+./build/tools/caffe train --solver examples/inter/hung3_proposed11/solver_dct_pixel.prototxt -gpu 4
